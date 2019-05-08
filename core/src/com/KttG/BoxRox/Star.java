@@ -1,9 +1,9 @@
 package com.KttG.BoxRox;
 
-import java.util.Random;
-
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
+
+import java.util.Random;
 
 public 	class Star {
 	Image b;
