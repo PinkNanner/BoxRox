@@ -1,0 +1,376 @@
+
+ships.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hud
+  rotate: false
+  xy: 1, 13
+  size: 157, 50
+  orig: 157, 50
+  offset: 0, 0
+  index: -1
+selectImage
+  rotate: false
+  xy: 160, 13
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+selectImage2
+  rotate: false
+  xy: 212, 13
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+invul
+  rotate: false
+  xy: 264, 20
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+invul2
+  rotate: false
+  xy: 309, 20
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+item00
+  rotate: false
+  xy: 354, 26
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+item01
+  rotate: false
+  xy: 391, 26
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+item02
+  rotate: false
+  xy: 428, 26
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+item03
+  rotate: false
+  xy: 465, 26
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+ship6-color0
+  rotate: false
+  xy: 502, 33
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+ship6-color1
+  rotate: false
+  xy: 502, 1
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+ship6-color2
+  rotate: false
+  xy: 540, 33
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+ship3-color0
+  rotate: false
+  xy: 540, 1
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+ship3-color1
+  rotate: false
+  xy: 574, 1
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+ship7-color0
+  rotate: false
+  xy: 578, 33
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+ship7-color1
+  rotate: false
+  xy: 608, 1
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+bossRobotExplode0
+  rotate: false
+  xy: 612, 33
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+pBar
+  rotate: false
+  xy: 1, 6
+  size: 60, 5
+  orig: 60, 5
+  offset: 0, 0
+  index: -1
+ship5-color0
+  rotate: false
+  xy: 644, 34
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+ship5-color1
+  rotate: false
+  xy: 681, 34
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+bossRobotExplode1
+  rotate: false
+  xy: 642, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bossRobotExplode2
+  rotate: false
+  xy: 718, 33
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+item10
+  rotate: false
+  xy: 750, 33
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+item20
+  rotate: false
+  xy: 674, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ship0-color0
+  rotate: false
+  xy: 706, 1
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+ship0-color1
+  rotate: false
+  xy: 737, 1
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+ship2-color0
+  rotate: false
+  xy: 782, 29
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+explode3
+  rotate: false
+  xy: 813, 35
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+explode0
+  rotate: false
+  xy: 845, 35
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+explode1
+  rotate: false
+  xy: 876, 35
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+explode2
+  rotate: false
+  xy: 907, 35
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+ship1-color0
+  rotate: false
+  xy: 938, 35
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+ship1-color1
+  rotate: false
+  xy: 969, 35
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+ship2-fire0
+  rotate: false
+  xy: 264, 6
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+laser0
+  rotate: false
+  xy: 298, 7
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+ship3-fire0
+  rotate: false
+  xy: 298, 7
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+ship1-fire0
+  rotate: false
+  xy: 768, 7
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship3-fire1
+  rotate: false
+  xy: 354, 13
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+ship0-fire0
+  rotate: false
+  xy: 387, 10
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+ship0-fire1
+  rotate: false
+  xy: 418, 10
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+ship1-fire1
+  rotate: false
+  xy: 449, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship5-fire0
+  rotate: false
+  xy: 449, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship5-fire1
+  rotate: false
+  xy: 449, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship6-fire0
+  rotate: false
+  xy: 449, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship6-fire1
+  rotate: false
+  xy: 449, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship7-fire0
+  rotate: false
+  xy: 449, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship7-fire1
+  rotate: false
+  xy: 449, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ship4-color0
+  rotate: false
+  xy: 813, 5
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ship4-color1
+  rotate: false
+  xy: 843, 5
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ship4-fire0
+  rotate: false
+  xy: 873, 20
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+pBar-knob
+  rotate: false
+  xy: 63, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+pBar-after
+  rotate: false
+  xy: 1000, 58
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+pBar-before
+  rotate: false
+  xy: 331, 13
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,593 @@
+
+minions.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+robotMinionBlast3
+  rotate: false
+  xy: 0, 92
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+robotMinionBlast2
+  rotate: false
+  xy: 188, 138
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+robotMinionBlast1
+  rotate: false
+  xy: 0, 12
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+robotPointEffect0
+  rotate: false
+  xy: 330, 206
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect00
+  rotate: false
+  xy: 81, 18
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect01
+  rotate: false
+  xy: 381, 206
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect02
+  rotate: false
+  xy: 132, 18
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect03
+  rotate: false
+  xy: 432, 206
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect04
+  rotate: false
+  xy: 483, 206
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect05
+  rotate: false
+  xy: 534, 206
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect1
+  rotate: false
+  xy: 585, 206
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect10
+  rotate: false
+  xy: 330, 155
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect11
+  rotate: false
+  xy: 636, 229
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect12 
+  rotate: false
+  xy: 404, 155
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect13
+  rotate: false
+  xy: 710, 229
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect14
+  rotate: false
+  xy: 478, 155
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect15
+  rotate: false
+  xy: 784, 229
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect30
+  rotate: false
+  xy: 552, 155
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect31
+  rotate: false
+  xy: 858, 229
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect32
+  rotate: false
+  xy: 188, 87
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect33
+  rotate: false
+  xy: 183, 36
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect34
+  rotate: false
+  xy: 262, 87
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotPointEffect35
+  rotate: false
+  xy: 257, 36
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+robotMinionBlast0
+  rotate: false
+  xy: 932, 228
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+robotPointEffect2
+  rotate: false
+  xy: 336, 81
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect20
+  rotate: false
+  xy: 387, 81
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect21
+  rotate: false
+  xy: 438, 81
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect22
+  rotate: false
+  xy: 489, 81
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect23
+  rotate: false
+  xy: 540, 81
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect24
+  rotate: false
+  xy: 591, 81
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPoint00
+  rotate: false
+  xy: 331, 34
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+robotPoint01
+  rotate: false
+  xy: 382, 34
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+robotPoint20
+  rotate: false
+  xy: 433, 34
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+robotPoint21
+  rotate: false
+  xy: 484, 34
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+robotPointEffect25
+  rotate: false
+  xy: 535, 7
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect3
+  rotate: false
+  xy: 586, 7
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect4
+  rotate: false
+  xy: 636, 155
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPointEffect5
+  rotate: false
+  xy: 687, 155
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+robotPoint10
+  rotate: false
+  xy: 642, 104
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+robotPoint11
+  rotate: false
+  xy: 738, 178
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+robotPoint30
+  rotate: false
+  xy: 689, 104
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+robotPoint31
+  rotate: false
+  xy: 785, 178
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+badbox0
+  rotate: false
+  xy: 832, 182
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+badbox1
+  rotate: false
+  xy: 879, 182
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+badbox2
+  rotate: false
+  xy: 926, 181
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+badbox3
+  rotate: false
+  xy: 642, 57
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+badbox4
+  rotate: false
+  xy: 689, 57
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+badbox5
+  rotate: false
+  xy: 637, 10
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+badbox6
+  rotate: false
+  xy: 684, 10
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+badbox7
+  rotate: false
+  xy: 738, 131
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+boxPurple0
+  rotate: false
+  xy: 785, 132
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+boxPurple1
+  rotate: false
+  xy: 736, 85
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+boxPurple2
+  rotate: false
+  xy: 736, 39
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+minionBlueBubble0
+  rotate: false
+  xy: 731, 7
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+minionBlueBubble1
+  rotate: false
+  xy: 183, 4
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+minionBlueBubble2
+  rotate: false
+  xy: 216, 4
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+minionBlueBubble3
+  rotate: false
+  xy: 249, 4
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+minionBluePopped0
+  rotate: false
+  xy: 282, 4
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+boxPurple3
+  rotate: false
+  xy: 832, 136
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+boxPurple4
+  rotate: false
+  xy: 878, 136
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+boxPurple5
+  rotate: false
+  xy: 924, 135
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+minionBluePopped1
+  rotate: false
+  xy: 764, 7
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+boxPurple6
+  rotate: false
+  xy: 831, 90
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+boxPurple7
+  rotate: false
+  xy: 877, 90
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+minionBlue4
+  rotate: false
+  xy: 785, 92
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+minionBlue5
+  rotate: false
+  xy: 923, 95
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+minionBlue0
+  rotate: false
+  xy: 782, 46
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+minionBlue1
+  rotate: false
+  xy: 797, 0
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+minionBlue6
+  rotate: false
+  xy: 822, 50
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+minionBlue7
+  rotate: false
+  xy: 868, 50
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+minionBlue2
+  rotate: false
+  xy: 837, 4
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+minionBlue3
+  rotate: false
+  xy: 877, 4
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+minionBluePopped2
+  rotate: false
+  xy: 315, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+minionBluePopped3
+  rotate: false
+  xy: 348, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+minionGreen0
+  rotate: false
+  xy: 381, 9
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+minionGreen1
+  rotate: false
+  xy: 407, 9
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+minionGreen2
+  rotate: false
+  xy: 433, 9
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+minionGreen3
+  rotate: false
+  xy: 459, 9
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+minionGreen4
+  rotate: false
+  xy: 485, 8
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+minionGreen5
+  rotate: false
+  xy: 510, 8
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+robotMinion0
+  rotate: false
+  xy: 923, 53
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+minionGreen6
+  rotate: false
+  xy: 917, 27
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+minionGreen7
+  rotate: false
+  xy: 942, 27
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+roboBlast0
+  rotate: false
+  xy: 626, 196
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

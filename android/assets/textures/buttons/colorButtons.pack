@@ -1,0 +1,96 @@
+
+colorButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blackButton
+  rotate: false
+  xy: 1, 409
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+blackButtonPressed
+  rotate: false
+  xy: 1, 307
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+blankButton
+  rotate: false
+  xy: 153, 409
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+blueButton
+  rotate: false
+  xy: 1, 205
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+blueButtonPressed
+  rotate: false
+  xy: 153, 307
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+greenButton
+  rotate: false
+  xy: 305, 409
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+greenButtonPressed
+  rotate: false
+  xy: 1, 103
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+orangeButton
+  rotate: false
+  xy: 153, 205
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+orangeButtonPressed
+  rotate: false
+  xy: 305, 307
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+redButton
+  rotate: false
+  xy: 1, 1
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+redButtonPressed
+  rotate: false
+  xy: 153, 103
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+whiteButton
+  rotate: false
+  xy: 305, 205
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+whiteButtonPressed
+  rotate: false
+  xy: 153, 1
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
